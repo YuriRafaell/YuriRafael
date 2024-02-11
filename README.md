@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Steffany Jennyfer</h1>
+<h1 align="center">Hi 👋, I'm Yuri Rafael</h1>
 <h3 align="center">Front-end Developer Jr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steffanyjennyfer&label=Profile%20views&color=0e75b6&style=flat" alt="steffanyjennyfer" /> </p>
 
-- 🌱 I’m currently learning **React.js, Python, Typescript, Java, C++ and C#/.NET**
+- 🌱 I’m currently learning **React.js, Python, Typescript and Java**
 
 - 💬 Ask me about **HTML and CSS**
 
