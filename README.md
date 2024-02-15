@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Rafael</h1>
 <h3 align="center">Front-end Developer Jr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steffanyjennyfer&label=Profile%20views&color=0e75b6&style=flat" alt="steffanyjennyfer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuriRafaell&label=Profile%20views&color=0e75b6&style=flat" alt="YuriRafaell" /> </p>
 
 - 🌱 I’m currently learning **React.js, Python, Typescript and Java**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/steffany-jennyfer-04762b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steffany-jennyfer-04762b200" height="30" width="40" /></a>
-<a href="https://discord.gg/<Steffany Jennyfer/>#8201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<Steffany Jennyfer/>#8201" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/steffany-jennyfer-04762b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steffany-jennyfer-04762b200/" height="30" width="40" /></a>
+<a href="https://discord.gg/<Yuri />#8201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<Yuri />#8201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +22,5 @@
 
 <div align="left">
 <h3>Languages I usually work with:</h3>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffanyjennyfer&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRafaell&layout=compact&langs_count=7&theme=dracula"/>
 </div>
